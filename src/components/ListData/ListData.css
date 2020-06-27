@@ -1,0 +1,18 @@
+.datalist{
+    padding:0 70px;
+    text-align: left;
+    color:#6c567b;
+    font-size: 22px;
+
+}
+
+.datalist span{
+    display: inline-block;
+    color: black;
+    
+}
+
+.datalist div{
+    border-bottom: 2px solid #c06c8440;
+    margin-top: 15px;
+}
